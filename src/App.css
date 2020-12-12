@@ -1,0 +1,21 @@
+
+body {
+    background-color: cadetblue;
+}
+.App {
+    display: flex;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+
+.container {
+    border: solid 2px black;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
